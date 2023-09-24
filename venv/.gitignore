@@ -1,0 +1,7 @@
+# created by virtualenv automatically
+*.pyc
+*.eff-info
+/env
+/.env
+venv/
+.idea/
